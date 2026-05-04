@@ -1,6 +1,6 @@
 # 🛒 [Nombre del proyecto]
 
-> Proyecto final — Java POO · [Curso] · [Año]
+> Proyecto final — Java POO · [Curso] · [2026]
 
 ## 👥 Integrantes
 
@@ -27,7 +27,7 @@
 ### Pasos
 ```bash
 # 1. Clonar
-git clone https://github.com/[usuario]/[repo].git
+git clone (https://github.com/Antomaker/competencia.git)
 
 # 2. <!-- instrucciones específicas de su proyecto -->
 ```
