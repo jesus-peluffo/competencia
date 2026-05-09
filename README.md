@@ -6,10 +6,10 @@
 
 | Nombre | GitHub |
 |--------|--------|
-| [Nombre 1] | [@usuario](https://github.com/usuario) |
-| [Nombre 2] | [@usuario](https://github.com/usuario) |
-| [Nombre 3] | [@usuario](https://github.com/usuario) |
-  [Nombre 4] | [@usuario](https://github.com/usuario) |
+| [Steven Arrieta] | [@usuario](https://github.com/usuario) |
+| [Jesus PEluffo] | [@usuario](https://github.com/usuario) |
+| [Daniel Babilonia] | [@usuario](https://github.com/usuario) |
+  [Sebastian Julio Cogollo] | [@usuario](https://github.com/usuario) |
 ---
 
 ## 📋 Descripción
